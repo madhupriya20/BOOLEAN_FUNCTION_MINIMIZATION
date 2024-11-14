@@ -38,7 +38,6 @@ Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) in
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
 
 # TRUTH TABLE
 ![TT 2](https://github.com/user-attachments/assets/bd69c52b-fe21-4f73-a32f-28dd255eda90)
